@@ -9,13 +9,15 @@ header {
 h1 {
     margin: 0;
     font-size: 24px;
-    color: #343a40;
+    color: rgb(44, 62, 80) ;
 }
 .git-button {
-    background-color: #343a40;
+    background-color: rgb(44, 62, 80);
     color: #bbbbbb;
     padding: 10px 20px;
     border-radius: 5px;
     text-decoration: none;
     font-size: 16px;
 }
+
+
