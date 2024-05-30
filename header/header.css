@@ -9,11 +9,11 @@ header {
 h1 {
     margin: 0;
     font-size: 24px;
-    color: rgb(44, 62, 80) ;
+    color:  #071063 ;
 }
 .git-button {
-    background-color: rgb(44, 62, 80);
-    color: #bbbbbb;
+    background-color: #071063;
+    color: #ffffff;
     padding: 10px 20px;
     border-radius: 5px;
     text-decoration: none;
