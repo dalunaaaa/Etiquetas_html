@@ -1,0 +1,18 @@
+footer {
+    max-width: 375px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-top: 2px solid #495057;
+}
+.footer-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+.footer-subtitle {
+    font-size: 16px;
+    color: #adb5bd;
+}
